@@ -1,0 +1,14 @@
+{
+  "Title": "Strafe_Content",
+  "Type": "content",
+  "Org": "local",
+  "Ident": "strafe_content",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}
