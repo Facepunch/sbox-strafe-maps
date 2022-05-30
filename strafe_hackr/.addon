@@ -1,0 +1,14 @@
+{
+  "Title": "bhop hackr",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "strafe_hackr",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}

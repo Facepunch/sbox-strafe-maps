@@ -1,0 +1,10 @@
+
+*.vtex_c
+*.los
+*_bakeresourcecache
+*.vpk
+*.vmat_c
+*.vpcf_c
+*.vsnap_c
+*.vsnd_c
+*.sound_c
